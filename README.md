@@ -1,3 +1,1 @@
-<div align = center>
-  # Hi Everyone 👋
-</div>
+ # Hi Everyone 👋

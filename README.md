@@ -11,6 +11,5 @@
 </p>
 
 ### 📫 Connect with Me
-📧 Email: [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:seahee422@gmail.com)  
-💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%EC%A7%84%ED%9D%AC-%EB%B0%95-667b17263/) 
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:seahee422@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%EC%A7%84%ED%9D%AC-%EB%B0%95-667b17263/) 
 

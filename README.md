@@ -3,5 +3,5 @@
 </p>
 <h2>⚙️Tech Stack</h2>
 <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp
 </p>

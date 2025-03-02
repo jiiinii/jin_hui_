@@ -3,7 +3,9 @@
 </p>
 <div align="center">
 <h1>안녕하세요, 프론트엔드 개발자 박진희입니다👋</h1>
-<p>저는 시각적으로 매력적인 프로젝트를 구축하기 위해 최신기술들을 끊임없이 습득하고 있습니다. 깔끔하고 효율적인 코드를 작성하여 </p>
+<p>저는 시각적으로 매력적인 프로젝트를 구축하기 위해 최신기술들을 끊임없이 습득하고 있습니다. 깔끔하고 효율적인 코드를 작성하여<br/>
+업무의 능률이 오를 수 있도록 많은 연구를 하고 있으며, 어떠한 의견도 겸허히 받아들여 모두에게 도움이 될 수 있는<br/>
+성장형 개발자가 되겠습니다.</p>
 
 ## ⚙️ Front-end Stack ⚙️
 <div>
@@ -13,16 +15,18 @@
         <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/><br/>
         <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
         <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
+</div>
 
 ## 👩🏻‍💻 Coworker Stack 👩🏻‍💻
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/> 
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
-<img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/> 
-<img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/>
-<img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/trello-0052CC?style=flat-square&logo=trello&logoColor=white"/>
+<div>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/>
+        <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+        <img src="https://img.shields.io/badge/trello-0052CC?style=flat-square&logo=trello&logoColor=white"/>
 </div>
 
 ## ✨ FrameWork ✨

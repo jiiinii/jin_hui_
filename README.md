@@ -5,7 +5,7 @@
 <h1>안녕하세요, 프론트엔드 개발자 박진희입니다👋</h1>
 <p>저는 시각적으로 매력적인 프로젝트를 구축하기 위해 최신기술들을 끊임없이 습득하고 있습니다. 깔끔하고 효율적인 코드를 작성하여 </p>
 
-## ⚙️ Front-end Stack
+## ⚙️ Front-end Stack ⚙️
 <div>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
@@ -13,28 +13,26 @@
         <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/><br/>
         <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
         <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
+
+## 👩🏻‍💻 Coworker Stack 👩🏻‍💻
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/> 
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
+<img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/> 
+<img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/>
+<img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/trello-0052CC?style=flat-square&logo=trello&logoColor=white"/>
 </div>
 
-## 👩🏻‍💻 Coworker Stack
-<div>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
-        <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/> 
-        <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
-        <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/><br/>
-        <img src="https://img.shields.io/badge/confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/> 
-        <img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/>
-        <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
-        <img src="https://img.shields.io/badge/trello-0052CC?style=flat-square&logo=trello&logoColor=white"/>
-</div>
-
-## ✨ FrameWork
+## ✨ FrameWork ✨
 <div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
 </div>
 
-## ✨ Other ability
+## ✨ Other ability ✨
 <div>
     <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/> 
     <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/>

@@ -6,17 +6,17 @@
 <p>저는 시각적으로 매력적인 프로젝트를 구축하기 위해 최신기술들을 끊임없이 습득하고 있습니다. 깔끔하고 효율적인 코드를 작성하여 </p>
 
 ## ⚙️ Front-end Stack
-<p>
+<div>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
         <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
         <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
         <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
-</p>
+</div>
 
 ## ⚙️ Coworker Stack
-<p>
+<div>
     <li> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
         <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/> 
         <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
@@ -25,10 +25,13 @@
         <img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/>
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
     </li>
+</div>
+
 ## ⚙️ FrameWork
+<div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white"/>
-</p>
+</div>
 
 ## 📫 Connect with Me
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:seahee422@gmail.com) 

@@ -3,9 +3,9 @@
 </p>
 <div align="center">
 <h1>안녕하세요, 프론트엔드 개발자 박진희입니다👋</h1>
-<p>저는 시각적으로 매력적인 프로젝트를 구축하기 위해 최신기술들을 끊임없이 습득하고 있습니다. 깔끔하고 효율적인 코드를 작성하여<br/>
-업무의 능률이 오를 수 있도록 많은 연구를 하고 있으며, 어떠한 의견도 겸허히 받아들여 모두에게 도움이 될 수 있는<br/>
-성장형 개발자가 되겠습니다.</p>
+<p>저는 시각적으로 매력적인 프로젝트를 구축하기 위해 최신기술들을 끊임없이 습득하고 있습니다.<br/>
+    프론트엔드 개발뿐만 아니라 기획·디자인·백엔드와의 원활한 협업을 중요하게 생각하고, 사용자 경험을 극대화하는 UI/UX를 고려하여<br/>
+    직관적인 UI, 클린 코드, 효율적인 개발 프로세스를 위해 고민하며 성장하고 있습니다.</p>
 
 ## ⚙️ Front-end Stack ⚙️
 <div>
@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/> 
     <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
     <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
     <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white"/>
 </div>
 

@@ -11,5 +11,5 @@
 </p>
 
 ### 📫 Connect with Me
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:seahee422@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%EC%A7%84%ED%9D%AC-%EB%B0%95-667b17263/) 
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:seahee422@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%EC%A7%84%ED%9D%AC-%EB%B0%95-667b17263/) [![Instagram](https://img.shields.io/badge/-Instagram-FF0069?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/dev_j__?igsh=YnNuNHo4aXdxZXR6&utm_source=qr) 
 

@@ -46,9 +46,15 @@
     <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white"/>
 </div>
 
+## 🏢 Career 🏢
+<div>
+    <li>테크에이스 솔루션</li>
+</div>
+
 ## 📫 Connect with Me
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:seahee422@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%EC%A7%84%ED%9D%AC-%EB%B0%95-667b17263/) 
 [![Instagram](https://img.shields.io/badge/-Instagram-FF0069?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/dev_j__?igsh=YnNuNHo4aXdxZXR6&utm_source=qr)
+[![Notion](https://img.shields.io/badge/-Notion-000?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/Hello-I-m-JinHui-Park-1a402a92547e80578a52d8416839854a)
 </div>
 

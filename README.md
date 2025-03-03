@@ -4,14 +4,9 @@
 <div align="center">
 <h1>안녕하세요, Frontend Developer 박진희입니다👋</h1>
  <h2>저는 이것을 좋아합니다</h2><br/>
- <ul>
      <li>여러 사람들과 의사소통 하면서 의견 공유하기</li>
- </ul>
 
  <h2>저는 이것을 추구하면서 고민합니다.</h2><br/>
- <ul>
-     <li></li>
- </ul>
 
 ## ⚙️ Front-end Stack ⚙️
 <div>

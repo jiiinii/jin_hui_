@@ -2,11 +2,9 @@
     <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello🙋🏻‍♀️&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4"/>
 </p>
 <div align="center">
-<h1>안녕하세요, Frontend Developer 박진희입니다👋</h1>
- <h2>저는 이것을 좋아합니다</h2><br/>
+# 안녕하세요, Frontend Developer 박진희입니다👋
+> 저는 이것을 좋아합니다</h2><br/>
      <li>여러 사람들과 의사소통 하면서 의견 공유하기</li>
-
- <h2>저는 이것을 추구하면서 고민합니다.</h2><br/>
 
 ## ⚙️ Front-end Stack ⚙️
 <div>

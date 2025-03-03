@@ -2,10 +2,9 @@
     <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello🙋🏻‍♀️&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4"/>
 </p>
 <div align="center">
-<h1>안녕하세요, 프론트엔드 개발자 박진희입니다👋</h1>
-<p>저는 시각적으로 매력적인 프로젝트를 구축하기 위해 최신기술들을 끊임없이 습득하고 있습니다.<br/>
-    또한 프론트엔드 개발뿐만 아니라 기획·디자인·백엔드와의 원활한 협업을 중요하게 생각하고,<br/>
-    사용자 경험을 극대화하는 UI/UX를 고려하여 직관적인 UI, 클린 코드, 효율적인 개발 프로세스를 위해 고민하며 성장하고 있습니다.
+<h1>안녕하세요, Frontend Developer(DevOps) 박진희입니다👋</h1>
+<p>
+    <h2>저는 이것을 좋아합니다</h2><br/>
 </p>
 
 ## ⚙️ Front-end Stack ⚙️
@@ -49,7 +48,7 @@
 
 ## 🏢 Career 🏢
 <div>
-    <li>테크에이스 솔루션</li>
+    <li>테크에이스 솔루션 [2023.02 ~ 재직중]</li>
 </div>
 
 ## 📫 Connect with Me

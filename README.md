@@ -3,9 +3,7 @@
 </p>
 <div align="center">
 <h1>안녕하세요, Frontend Developer(DevOps) 박진희입니다👋</h1>
-<p>
-    <h2>저는 이것을 좋아합니다</h2><br/>
-</p>
+ <h2>저는 이것을 좋아하고 추구합니다</h2><br/>
 
 ## ⚙️ Front-end Stack ⚙️
 <div>
